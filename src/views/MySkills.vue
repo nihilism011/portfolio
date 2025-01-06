@@ -18,7 +18,7 @@ const items = [
     title: 'Frontend',
     contents: [
       { icon: 'vuejs', color: '#41B883', content: 'Vue.js' },
-      { icon: 'state-machine', color: '#418888', content: 'Pinia' },
+      { icon: 'fruit-pineapple', color: '#418888', content: 'Pinia' },
       { icon: 'react', color: '#61DAFB', content: 'React.js', fontColor: 'black' },
       { icon: 'tailwind', color: '#06B6D4', content: 'Tailwind CSS' },
     ],

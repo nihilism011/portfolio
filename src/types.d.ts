@@ -6,4 +6,5 @@ export interface Project {
   link: string
   link2?: string
   stacks: string
+  imgList?: string[]
 }
